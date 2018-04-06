@@ -8,6 +8,7 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 
+    <link href="http://getbootstrap.com/docs/4.0/examples/checkout/form-validation.css" rel="stylesheet">
     <title>Hello, world!</title>
   </head>
-  <body>
+  <body class="bg-light">

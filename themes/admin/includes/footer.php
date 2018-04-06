@@ -1,0 +1,2 @@
+admin templates
+footer.php
